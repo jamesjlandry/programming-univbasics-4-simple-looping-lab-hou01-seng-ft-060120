@@ -24,6 +24,6 @@ def output_array(message)
 end
 
 def return_string_array(elements)
-  new_array = [elements].to_s
+  new_array = [elements.to_s]
   new_array
 end
